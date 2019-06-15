@@ -27,7 +27,7 @@ def create_database(db_name, connection, cursor):
 
 if __name__ == '__main__':
     print('Link mysql server...')
-    db = pymysql.connect(host="localhost", user="root", password="assfASSF1224", port=3306)  # connect your mysql
+    db = pymysql.connect(host="localhost", user="root", password="Your_password", port=3306)  # connect your mysql
     cursor = db.cursor()
     # cursor.execute("DROP DATABASE IF EXISTS houserelated")
     # create_database("houserelated", db, cursor)
