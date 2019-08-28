@@ -2,7 +2,7 @@
 
 This is a my own MySQL practice folder.
 
-obtain_data.py (This script is copied from https://blog.csdn.net/Oscer2016/article/details/70257956) is a helloworld script for obtaining data from website.
+obtain_data.py (This script is revised from https://blog.csdn.net/Oscer2016/article/details/70257956) is a helloworld script for obtaining data from website.
 
 Suppose you have fetched data from somewhere and stored. MySQL can be interacted by pymysql in python.
 
